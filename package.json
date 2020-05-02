@@ -1,0 +1,24 @@
+{
+  "name": "javascript-with-tdd",
+  "version": "1.0.0",
+  "description": "Course with javascript with tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siulAvila/Js-TDD.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Luis Fernando de Avila",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siulAvila/Js-TDD/issues"
+  },
+  "homepage": "https://github.com/siulAvila/Js-TDD#readme"
+}
