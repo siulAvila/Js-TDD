@@ -3,6 +3,7 @@ module.exports = {
     browser: true,
     es6: true,
     node: true,
+    jasmine: true,
   },
   extends: ['airbnb', 'prettier'],
   plugins: ['prettier'],
